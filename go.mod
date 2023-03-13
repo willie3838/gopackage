@@ -1,3 +1,3 @@
-module github.com/willie3838/go_package
+module github.com/willie3838/gopackage
 
 go 1.19
