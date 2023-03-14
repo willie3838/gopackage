@@ -4,5 +4,5 @@ import "fmt"
 
 func main() {
 	fmt.Println("Hello")
-	fmt.Println("updating this, will it associate?")
+	fmt.Println("updating this?")
 }
