@@ -10,6 +10,8 @@ permissions:
 jobs:
   goreleaser:
     runs-on: ubuntu-latest
+    builds:
+      - skip: true
     steps:
       -
         name: Checkout
