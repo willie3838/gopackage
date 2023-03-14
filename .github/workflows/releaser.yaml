@@ -7,9 +7,6 @@ on:
 permissions:
   contents: write
 
-builds:
-  - skip: true
-
 jobs:
   goreleaser:
     runs-on: ubuntu-latest
