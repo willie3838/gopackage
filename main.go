@@ -4,5 +4,5 @@ import "fmt"
 
 func main() {
 	fmt.Println("Hello")
-	fmt.Println("updating this?")
+	fmt.Println("v0.6.0")
 }
