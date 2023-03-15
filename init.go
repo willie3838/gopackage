@@ -6,5 +6,5 @@ import (
 
 func init() {
 	fmt.Println("[go-package] initializing ...")
-	fmt.Println("testing this here..")
+	fmt.Println("testing this here BETA..")
 }
