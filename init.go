@@ -6,5 +6,5 @@ import (
 
 func init() {
 	fmt.Println("[go-package] initializing ...")
-	fmt.Println("NEW TAG")
+	fmt.Println("no tag")
 }
